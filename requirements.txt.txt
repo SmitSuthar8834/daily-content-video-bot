@@ -1,0 +1,4 @@
+requests
+python-dotenv
+schedule
+# Add any other packages your bot uses
